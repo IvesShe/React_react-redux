@@ -10,7 +10,7 @@ https://github.com/IvesShe/React_Redux
 
 https://ivesshe.github.io/React_react-redux/
 
-![image](./images/20210308234012.png)
+![image](./images/20210309175125.png)
 
 # react-redux模型圖
 
